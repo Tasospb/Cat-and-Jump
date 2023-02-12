@@ -1,0 +1,7 @@
+﻿  MyGame.cpp
+C:\Users\tasos\Desktop\Games Science\platform_starter\game\MyGame.cpp(117,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tasos\Desktop\Games Science\platform_starter\game\MyGame.cpp(149,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tasos\Desktop\Games Science\platform_starter\game\MyGame.cpp(198,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tasos\Desktop\Games Science\platform_starter\game\MyGame.cpp(234,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tasos\Desktop\Games Science\platform_starter\game\MyGame.cpp(344,15): warning C4553: '==': result of expression not used; did you intend '='?
+  game.vcxproj -> C:\Users\tasos\Desktop\Games Science\platform_starter\Debug\platform.exe
